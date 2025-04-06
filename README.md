@@ -39,8 +39,9 @@ npm run build
 Innovation Forge combines sleek, modern aesthetics with intuitive functionality. The gradient-rich interface and smooth animations create an engaging experience that inspires creativity.
 
 ## 📱 Screenshots
+![image](https://github.com/user-attachments/assets/06a17718-609e-4d9c-a892-32ff7fc76ba2)
 
-![Innovation Forge Interface](https://images.unsplash.com/photo-1664575602554-2087b04935a5?q=80&w=1470&fit=crop)
+
 _Transform your ideas into innovation_
 
 ## 🤝 Contributing
